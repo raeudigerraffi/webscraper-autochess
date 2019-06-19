@@ -6,6 +6,7 @@ from w3lib.http import basic_auth_header
 import random
 
 def standard(input,number):
+#function to standardize the data
     std = number - len(input)
     if std == 0 :
         print("10 units")
