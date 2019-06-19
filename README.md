@@ -7,3 +7,5 @@ Requirments:
 - splash
 - docker
 - scrapinghub/splash docker image
+
+Additionally I used aquarium to determine the settings of the scrapinghub/splash instance.
